@@ -10,5 +10,6 @@ Estás viendo el resulatado de mi aprendizaje de Git y Github.
 * Tecnicas para agilizar el proceso de desarrollo
 * Aprovechar el potencial de Git para mis proyectos
 * Buenas practicas
+* Creado por el increíbre Luis Mart
 
 Probablemente esté trabajando en este proyecto constantemente y con el tiempo se convierta en un desarrollo **increíble**.
