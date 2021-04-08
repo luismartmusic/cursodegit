@@ -11,5 +11,8 @@ Estás viendo el resulatado de mi aprendizaje de Git y Github.
 * Aprovechar el potencial de Git para mis proyectos
 * Buenas practicas
 * Creado por el increíbre Luis Mart
+* También he apredido comandos interesantes para agilizar.
+
+
 
 Probablemente esté trabajando en este proyecto constantemente y con el tiempo se convierta en un desarrollo **increíble**.
